@@ -5,7 +5,7 @@ I primarily enjoy embedded programming in C/C++, but I am also spending a lot of
 
 - ⚡ I love talking with all types of developers and finding tips and insights about the tools you use
 - 🦾 I'm currently working on a dog treat launcher, a Raspberry Pi gaming handheld, and 2 web applications in different frameworks
-- 🌱 I’m currently learning a lot about hardware and electronics to help me become a better-embedded programmer so I also don't shock myself and others.
+- 🌱 I’m currently learning a lot about hardware and electronics to help me become a better embedded programmer and so I don't shock myself and others.
 
 ### Skills
 <p align="center">
