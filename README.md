@@ -1,6 +1,5 @@
 ## Hi!👋 I'm Will
 <br></br>
-
 I am a CS student based in Los Angeles, CA. I am studying concurrent and distributed systems, artificial intelligence, and software engineering with agile development.
 I primarily enjoy embedded programming in C/C++, but I am also spending a lot of time with Python and web applications through Django, Docker, and PostgreSQL.
 
