@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi!👋 I'm Will
+<br></br>
 
-<!--
-**regularwills/regularwills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CS student based in Los Angeles, CA. I am studying concurrent and distributed systems, artificial intelligence, and software engineering with agile development.
+I primarily enjoy embedded programming in C/C++, but I am also spending a lot of time with Python and web applications through Django, Docker, and PostgreSQL.
 
-Here are some ideas to get you started:
+- ⚡ I love talking with all types of developers and finding tips and insights about the tools you use
+- 🦾 I'm currently working on a dog treat launcher, a Raspberry Pi gaming handheld, and 2 web applications in different frameworks
+- 🌱 I’m currently learning a lot about hardware and electronics to help me become a better-embedded programmer so I also don't shock myself and others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Skills
+<br></br>
+<p float="left">
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+  <img src="/https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
