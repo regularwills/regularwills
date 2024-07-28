@@ -8,13 +8,5 @@ I primarily enjoy embedded programming in C/C++, but I am also spending a lot of
 - 🌱 I’m currently learning a lot about hardware and electronics to help me become a better-embedded programmer so I also don't shock myself and others.
 
 ### Skills
-<br></br>
-<p float="left">
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-  <img src="![kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6 6143656815612668556205](https://github.com/user-attachments/assets/8a4b2101-cdf5-480a-bedb-133028f0fce5)
-" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
+![kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6 6143656815612668556205](https://github.com/user-attachments/assets/90f7efbb-0f80-4b44-87ae-99523ca2c16d)
 
