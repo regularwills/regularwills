@@ -11,7 +11,7 @@ I primarily enjoy embedded programming in C/C++, but I am also spending a lot of
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ab0e2e9-88ed-4def-b834-8b460f2306a0" alt="Python" width="75"/>
   <img src="https://github.com/user-attachments/assets/f095ab0c-99ee-4163-bad9-12de06a31875" alt="C++" width="75"/>
-  <img src="https://github.com/user-attachments/assets/404e3547-b194-4d37-bbcc-18ba38cd2c6d" alt="JavaScript" width="100"/>
+  <img src="https://github.com/user-attachments/assets/404e3547-b194-4d37-bbcc-18ba38cd2c6d" alt="JavaScript" width="80"/>
   <img src="https://github.com/user-attachments/assets/14e5b70d-23e4-4bb4-8f97-e55b455f18ff" alt="Django" width="75"/>
   <img src="https://github.com/user-attachments/assets/cce9f9de-9744-4925-b366-e00432ec031c" alt="PostgreSQL" width="75"/>
   <img src="https://github.com/user-attachments/assets/42e36771-bd30-476c-852e-50c0420ee0ea" alt="Docker" width="75"/>
