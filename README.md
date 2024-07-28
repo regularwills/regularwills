@@ -9,12 +9,13 @@ I primarily enjoy embedded programming in C/C++, but I am also spending a lot of
 
 ### Skills
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ab0e2e9-88ed-4def-b834-8b460f2306a0" alt="Python" width="200"/>
-  <img src="https://github.com/user-attachments/assets/f095ab0c-99ee-4163-bad9-12de06a31875" alt="C++" width="200"/>
-  <img src="https://github.com/user-attachments/assets/404e3547-b194-4d37-bbcc-18ba38cd2c6d" alt="JavaScript" width="200"/>
-  <img src="https://github.com/user-attachments/assets/96661d18-ccfa-4fe5-89c2-4c9f6dd80c24" alt="Rust" width="200"/>
-  <img src="https://github.com/user-attachments/assets/14e5b70d-23e4-4bb4-8f97-e55b455f18ff" alt="Django" width="200"/>
-  <img src="https://github.com/user-attachments/assets/cce9f9de-9744-4925-b366-e00432ec031c" alt="PostgreSQL" width="200"/>
-  <img src="https://github.com/user-attachments/assets/42e36771-bd30-476c-852e-50c0420ee0ea" alt="Docker" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2ab0e2e9-88ed-4def-b834-8b460f2306a0" alt="Python" width="100"/>
+  <img src="https://github.com/user-attachments/assets/f095ab0c-99ee-4163-bad9-12de06a31875" alt="C++" width="100"/>
+  <img src="https://github.com/user-attachments/assets/404e3547-b194-4d37-bbcc-18ba38cd2c6d" alt="JavaScript" width="100"/>
+  <img src="https://github.com/user-attachments/assets/e923881a-8aba-46c7-9295-ecfe9c59b266" alt="Rust" width="100"/>
+  <img src="https://github.com/user-attachments/assets/14e5b70d-23e4-4bb4-8f97-e55b455f18ff" alt="Django" width="100"/>
+  <img src="https://github.com/user-attachments/assets/cce9f9de-9744-4925-b366-e00432ec031c" alt="PostgreSQL" width="100"/>
+  <img src="https://github.com/user-attachments/assets/42e36771-bd30-476c-852e-50c0420ee0ea" alt="Docker" width="100"/>
 </p>
+
 
